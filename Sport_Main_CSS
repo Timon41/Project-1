@@ -1,0 +1,95 @@
+body{
+font-family: 'Spline Sans', sans-serif;
+ margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.head {
+ text-transform: uppercase;
+ position: absolute;
+ margin-top: 20px;
+
+}
+
+.link{
+	text-decoration: none;
+	font-size: 20px;
+	color: #f2f1ed;
+	transition: color 0.2s linear;
+	background-color:#fc701e;
+	display:inline-block;
+	border: 13px solid #fc701e;
+    vertical-align: top;
+margin: 30px 60px;
+padding-right: 4px;
+padding-left: 4px;
+z-index: 2000;
+margin-bottom: 25px;
+}
+
+.link:hover{
+	color:#bf4c0d
+}
+
+.navig{
+	text-align: center;
+	border-bottom:13px solid #092f87;
+	border-top: 13px solid #092f87;
+	margin-left: 290px;
+	background: url(https://livewallpaperhd.com/wp-content/uploads/2017/11/Red-HD-Wallpaper.jpg);
+}
+
+.main1{
+background: url(https://ussa.edu/wp-content/uploads/2019/03/finish_large.jpg) center, no-repeat;
+background-size: cover;
+width: 100%;
+height: 100vh;
+}
+
+.info{
+padding-top: 30px;
+}
+
+.logo{
+	background: url(https://livewallpaperhd.com/wp-content/uploads/2017/11/Red-HD-Wallpaper.jpg);
+border:20px solid #092f87;
+	margin-left: 340px;
+	margin-right: 340px;
+	font-size: 28px;
+	text-align: center;
+	color: #f0f7f4;
+
+}
+
+.img{
+	width: 300px;
+	height: 130px;
+z-index: 500;
+margin-left: 590px;
+padding-top: 200px;
+}
+
+.main2{
+background: url(https://www.prosporthospitality.com/wp-content/uploads/2014/09/background-32.jpg)center, no-repeat;
+background-size: cover;
+width: 100%;
+height: 100vh;
+}
+
+.def{
+	padding-top: 20px;
+	padding-left: 20px;
+	font-size: 18px;
+	color: white;
+border-bottom: 3px solid whitesmoke;
+}
+
+.text{
+	font-size: 25px;
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 30px;
+}
