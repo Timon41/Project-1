@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Applications</title>
+	<link rel="stylesheet" type="text/css" href="st1.css">
+</head>
+<body>
+<div class="back_img1">
+<div class="main1">
+	<a class="link" href="wb1.html">&#129044; Back</a>
+<h1 class="head">Sport training applications <hr></h1>
+</div>
+<div class="main2">
+	<h4>In the modern world where everyone has a smartphone, they use mobile applications. For training and sports, there are many applications that help us and also keep us informed.
+	<br><br>
+	These applications will help you train without even leaving home. If you have been practicing for a long time and for you such a concept as training is already understandable, then for such people these applications are just right, but if you are a beginner, it is desirable to train with a trainer.
+	<br><br>
+	Below is a list of the 10 most popular free apps:
+</h4>
+<ul class="cr">
+	<em>
+	<li>8fit</li>
+	<li>Map My Fitness</li>
+	<li>Onyx</li>
+	<li>OpenFit</li>
+	<li>FitOn: Fitness Workout Plans</li>
+	<li>Forte</li>
+	<li>Jefit</li>
+	<li>The Johnson & Johnson Official 7 Minute Workout App</li>
+	<li>Strava</li>
+	<li>Charity Miles</li>
+</em>
+</ul>
+</div>
+</div>
+
+</body>
+</html>
