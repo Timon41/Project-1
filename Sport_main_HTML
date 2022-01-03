@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Sport life</title>
+<link rel="stylesheet" type="text/css" href="st.css">
+</head>
+<body>
+
+ <div class = "head">
+ <br>
+ <nav class="navig">
+ <b><a class="link" href = "APP.html">Applications</a></b>
+ <b><a class="link" href = "Sport.html">Motivation</a></b>
+ <b><a class="link" href = "ex.html">About sport</a></b>
+</nav>
+
+</div>
+<div class="main1">
+	<img src="lg.png" class="img" alt="background">
+<div class="info">
+	<div class="logo">
+	<h2>Opportunities don't come </h2>
+	<h2>by themselves,</h2> 
+	<h2>you create them</h2>
+</div>
+	</div>
+	</div>
+	<div class="main2">
+		<div class="def">
+		<h1>Why is sport so important?</h1>
+	</div>
+	<div class="text">
+	<p>
+	<img src="https://4.bp.blogspot.com/-yFYFEaHg4Ss/XALi9J7r9pI/AAAAAAAAAJs/vxc6_aYRSrgRws-B4Dpz9m_9c6OhRPJvACLcBGAs/s640/importance%2Bof%2Bsports%2Bin%2Bschool.jpg" alt="definition" align="right">
+	Keeping active through physical activity and sport has many benefits for the body. Some of these benefits include increased cardiovascular fitness, bone health, decreased risk of obesity, improved sleep, and better coordination and balance.
+	<br><br>	
+	Sport is as old as humanity itself. It’s kept societies fit and healthy while building strong communities and boosting morale. In this modern world of iPhones and laptops, the importance of sports is more relevant than ever. Competitive physical exercise not only motivates children and adults to get outside and keeps fit, but it also instills important values.
+
+    For many people, sport is taken for granted. It’s something that exists in the background but isn’t considered particularly valuable. Maybe it’s seen as a bit of fun on the weekend but ultimately, not all that important. This couldn’t be further from the truth. Sport matters and the importance of sports need to be more widely discussed. Without it, many aspects of modern society will crumble.
+
+    From health and happiness to education and society, sport matters. Promoting sports, inspiring young athletes, and increasing healthy competition will help individuals and communities to flourish. Here’s a complete guide outlining the benefits and importance of sports.
+	</p>
+	<h2>Don't be lazy, do sports for yourself</h2>
+</div>
+	</div>
+</body>
+</html>
